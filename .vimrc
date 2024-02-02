@@ -1,3 +1,4 @@
+set number
 local option = {
     cmdheight = 2
     clipboard = "unnamedplus"
